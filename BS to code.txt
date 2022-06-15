@@ -1,0 +1,10 @@
+numbers = [2, 5, 13, 7, 6, 4]
+size = 6
+sum = 0
+avr = 0
+index = 0
+for index in range [0:size) do
+    sim += numbers[index]
+    index += 1
+avg = sum/size
+print(avg)
